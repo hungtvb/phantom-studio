@@ -1,0 +1,14 @@
+# Dependencies and build output
+node_modules/
+dist/
+out/
+
+# OS and editor files
+.DS_Store
+*.log
+
+# NOTE (Kiroween 2026): the .kiro directory is INTENTIONALLY TRACKED.
+# The Kiroween 2026 Official Rules require /.kiro at the repository root as
+# proof of Kiro usage (specs, hooks, steering), and state that adding .kiro
+# to .gitignore may disqualify the submission. Do NOT add .kiro here.
+# (There is deliberately no ".kiro" entry in this file.)
