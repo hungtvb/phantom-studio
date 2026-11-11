@@ -1,0 +1,1 @@
+{"command":"npm test","description":"Runs the project test suite (node --check on vendored libs today; unit + property-based tests as src/ lands) whenever a JavaScript file is saved, so failures are caught immediately.","enabled":true,"event":"PostFileSave","name":"run-tests-on-save","patterns":["**/*.js"]}
